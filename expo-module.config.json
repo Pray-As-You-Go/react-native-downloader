@@ -1,0 +1,9 @@
+{
+  "platforms": ["apple", "android", "web"],
+  "apple": {
+    "modules": ["ReactNativeDownloaderModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.downloader.ReactNativeDownloaderModule"]
+  }
+}
